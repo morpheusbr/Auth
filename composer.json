@@ -2,11 +2,19 @@
     "name": "morpheusbr/auth",
     "description": "Sistema Auth",
     "type": "project",
+    "keywords": ["login","user"],
+    "homepage": "https://github.com/morpheusbr/Auth",
+    "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Fabio Vieira",
             "email": "fabio.dj.rs@gmail.com"
+	    "homepage": "https://www.facebook.com/djfabiovieirars"	
+	    
         }
-    ]
+    ],
+    "require": {
+    "php": ">=5.3.0"
 	
 }
