@@ -1,0 +1,12 @@
+{
+    "name": "sistema/Auth",
+    "description": "Sistema Auth",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fabio Vieira",
+            "email": "fabio.dj.rs@gmail.com"
+        }
+    ]
+	
+}
